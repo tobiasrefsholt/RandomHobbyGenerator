@@ -1,0 +1,15 @@
+/home/tobias/Documents/GetAcademy/Emne 3/RandomHobbyGenerator/RandomHobbyGenerator/bin/Debug/net7.0/RandomHobbyGenerator
+/home/tobias/Documents/GetAcademy/Emne 3/RandomHobbyGenerator/RandomHobbyGenerator/bin/Debug/net7.0/RandomHobbyGenerator.deps.json
+/home/tobias/Documents/GetAcademy/Emne 3/RandomHobbyGenerator/RandomHobbyGenerator/bin/Debug/net7.0/RandomHobbyGenerator.runtimeconfig.json
+/home/tobias/Documents/GetAcademy/Emne 3/RandomHobbyGenerator/RandomHobbyGenerator/bin/Debug/net7.0/RandomHobbyGenerator.dll
+/home/tobias/Documents/GetAcademy/Emne 3/RandomHobbyGenerator/RandomHobbyGenerator/bin/Debug/net7.0/RandomHobbyGenerator.pdb
+/home/tobias/Documents/GetAcademy/Emne 3/RandomHobbyGenerator/RandomHobbyGenerator/obj/Debug/net7.0/RandomHobbyGenerator.csproj.AssemblyReference.cache
+/home/tobias/Documents/GetAcademy/Emne 3/RandomHobbyGenerator/RandomHobbyGenerator/obj/Debug/net7.0/RandomHobbyGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/home/tobias/Documents/GetAcademy/Emne 3/RandomHobbyGenerator/RandomHobbyGenerator/obj/Debug/net7.0/RandomHobbyGenerator.AssemblyInfoInputs.cache
+/home/tobias/Documents/GetAcademy/Emne 3/RandomHobbyGenerator/RandomHobbyGenerator/obj/Debug/net7.0/RandomHobbyGenerator.AssemblyInfo.cs
+/home/tobias/Documents/GetAcademy/Emne 3/RandomHobbyGenerator/RandomHobbyGenerator/obj/Debug/net7.0/RandomHobbyGenerator.csproj.CoreCompileInputs.cache
+/home/tobias/Documents/GetAcademy/Emne 3/RandomHobbyGenerator/RandomHobbyGenerator/obj/Debug/net7.0/RandomHobbyGenerator.dll
+/home/tobias/Documents/GetAcademy/Emne 3/RandomHobbyGenerator/RandomHobbyGenerator/obj/Debug/net7.0/refint/RandomHobbyGenerator.dll
+/home/tobias/Documents/GetAcademy/Emne 3/RandomHobbyGenerator/RandomHobbyGenerator/obj/Debug/net7.0/RandomHobbyGenerator.pdb
+/home/tobias/Documents/GetAcademy/Emne 3/RandomHobbyGenerator/RandomHobbyGenerator/obj/Debug/net7.0/RandomHobbyGenerator.genruntimeconfig.cache
+/home/tobias/Documents/GetAcademy/Emne 3/RandomHobbyGenerator/RandomHobbyGenerator/obj/Debug/net7.0/ref/RandomHobbyGenerator.dll
